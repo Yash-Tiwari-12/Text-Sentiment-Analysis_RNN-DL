@@ -1,1 +1,2 @@
 # text-sentiment-analysis_RNN
+This project performs text preprocessing by converting text to lowercase, removing URLs, punctuation, and duplicate values. After preprocessing, the cleaned text is used for sentiment analysis to classify reviews or comments into positive, negative, or neutral sentiments.
